@@ -109,5 +109,4 @@ print("Decrypted Data:", decrypted_data)
 Crybaby is intended for educational purposes and fun experimentation. While it provides a way to obscure your data, it should not be used for securing highly sensitive information.
 
 ## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+Do whatever you want with it i don't care 
